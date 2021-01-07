@@ -1,4 +1,4 @@
-package guru.springframework.beintecbrussel.controllers;
+package be.intecbrussel.beintecbrussel.controllers;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
